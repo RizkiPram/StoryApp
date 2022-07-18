@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">MyStory2</string>
+    <string name="welcome">Welcome Back to Story app</string>
+    <string name="description">Welcome to Story apps, You can share your story here</string>
+    <string name="start_now">Start Now</string>
+    <string name="image_story" translatable="false">Image Story</string>
+    <string name="invalid_email">Email Not Valid</string>
+    <string name="invalid_password">Password Need to more than six</string>
+    <string name="storyapp_logo" translatable="false">StoryApp Logo</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="logout">Logout</string>
+    <string name="desc" translatable="false">Description</string>
+    <string name="register">Register Here</string>
+    <string name="image_detail" translatable="false">Image Detail</string>
+    <string name="move_to_add">Move To Add</string>
+    <string name="upload" translatable="false">upload</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="camera" translatable="false">Camera</string>
+    <string name="take_a_picture">Take A Picture</string>
+    <string name="switch_kamera">Switch Kamera</string>
+    <string name="setting">Setting</string>
+    <string name="register_text_view">Didn\'t have any account? Click Here</string>
+    <string name="logo_app" translatable="false">logo App</string>
+    <string name="name">Name</string>
+    <string name="retry">retry</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="map">Map</string>
+    <string name="back">back</string>
+</resources>

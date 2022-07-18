@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Selamat Datang Kembadi Di Story App</string>
+    <string name="description">Kamu Bisa berbagi cerita Disini</string>
+    <string name="start_now">Mulai</string>
+    <string name="invalid_email">Email Tidak Valid</string>
+    <string name="invalid_password">Kata sandi Harus lebih dari 6</string>
+    <string name="logout">Keluar</string>
+    <string name="register">Daftar Disini</string>
+    <string name="move_to_add">Pindah Ke Detail</string>
+    <string name="take_a_picture">Ambil Gambar</string>
+    <string name="switch_kamera">Ganti Kamera</string>
+    <string name="setting">Pengaturan</string>
+    <string name="register_text_view">Belum Punya Akun? Klik Disini</string>
+    <string name="name">nama</string>
+    <string name="retry">Ulang</string>
+    <string name="success">Berhasil</string>
+    <string name="failed">Gagal</string>
+    <string name="map">Peta</string>
+</resources>
